@@ -1,4 +1,4 @@
-# SL_tool_v1.0.0 for Windows 総合操作マニュアル 
+# SL_tool_v1.0.0 for Windows マニュアル 
 
 SL_tool_v1.0.0 は、認知言語機能評価および研究支援を目的とした総合言語評価ツールキットです。
 6つの言語課題（Naming, ActionDescription, Description, Repetition, ReadAloud, WordFluency）を同一インターフェース上で実施・管理することができます。対応OS：Windows専用（Windows 10/11推奨）
